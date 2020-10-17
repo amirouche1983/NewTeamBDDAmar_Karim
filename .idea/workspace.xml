@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ca10721-44b1-41c5-a4bb-a3f3d63151e7" name="Default Changelist" comment="" />
+    <list default="true" id="1ca10721-44b1-41c5-a4bb-a3f3d63151e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/main/java/stepDefenetions/TripleAHomePageStepD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/main/java/tripleAFeatures/TreepleAHomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/main/java/tripleAHooks/TripleA_Cuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/main/java/tripleAPage/TripleAWebElemment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/main/java/tripleAPage/TripleHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA/src/test/java/tripleaRunner/TripleARunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/common/BDDWebAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AAA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAA/src/main/java/allFeatures/MC_HomePage.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAA/src/main/java/stepsDefenitions/MC_HomePageStepD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAA/src/test/java/mcTestRunner/MCTestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/WebAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/screte.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/screte.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewTeamBDDAmar_Karim.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +57,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1io0N8ME0ytJ0zInWjmSLZ4FGt9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/AAA" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -29,12 +84,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/reporting" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/utility" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AAA" />
+      <recent name="$PROJECT_DIR$/AAA/src" />
       <recent name="$PROJECT_DIR$/Generic/src/main" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TripleARunner">
     <configuration name="MCTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AAA" />
       <extension name="coverage">
@@ -50,12 +113,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripleARunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tripleaRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tripleaRunner" />
+      <option name="MAIN_CLASS_NAME" value="tripleaRunner.TripleARunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TripleARunner" />
         <item itemvalue="JUnit.MCTestRunner" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,29 +149,77 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="273" y="107" key="#MCTestRunner" timestamp="1602565236542">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="273" y="107" key="#MCTestRunner/0.23.1440.837@0.23.1440.837" timestamp="1602565236542" />
-    <state width="1341" height="219" key="GridCell.Tab.0.bottom" timestamp="1602650083120">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state x="118" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602892111973">
+      <screen x="0" y="23" width="1152" height="647" />
     </state>
+    <state x="118" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1152.647@0.23.1152.647" timestamp="1602892111973" />
+    <state x="353" y="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602892113125">
+      <screen x="0" y="23" width="1152" height="647" />
+    </state>
+    <state x="353" y="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1152.647@0.23.1152.647" timestamp="1602892113125" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom" timestamp="1602905266868">
+      <screen x="0" y="23" width="1152" height="650" />
+    </state>
+    <state width="1110" height="213" key="GridCell.Tab.0.bottom/0.0.1152.720@0.0.1152.720" timestamp="1602723535211" />
+    <state width="1110" height="153" key="GridCell.Tab.0.bottom/0.23.1152.643@0.23.1152.643" timestamp="1602656348933" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom/0.23.1152.644@0.23.1152.644" timestamp="1602831022717" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom/0.23.1152.646@0.23.1152.646" timestamp="1602892825627" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom/0.23.1152.647@0.23.1152.647" timestamp="1602892157851" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom/0.23.1152.649@0.23.1152.649" timestamp="1602903398749" />
+    <state width="1095" height="213" key="GridCell.Tab.0.bottom/0.23.1152.650@0.23.1152.650" timestamp="1602905266868" />
     <state width="1341" height="219" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1602650083120" />
     <state width="1341" height="219" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1602648877592" />
-    <state width="1341" height="219" key="GridCell.Tab.0.center" timestamp="1602650083120">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center" timestamp="1602905266867">
+      <screen x="0" y="23" width="1152" height="650" />
     </state>
+    <state width="1110" height="213" key="GridCell.Tab.0.center/0.0.1152.720@0.0.1152.720" timestamp="1602723535210" />
+    <state width="1110" height="153" key="GridCell.Tab.0.center/0.23.1152.643@0.23.1152.643" timestamp="1602656348933" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center/0.23.1152.644@0.23.1152.644" timestamp="1602831022717" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center/0.23.1152.646@0.23.1152.646" timestamp="1602892825626" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center/0.23.1152.647@0.23.1152.647" timestamp="1602892157850" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center/0.23.1152.649@0.23.1152.649" timestamp="1602903398748" />
+    <state width="1095" height="213" key="GridCell.Tab.0.center/0.23.1152.650@0.23.1152.650" timestamp="1602905266867" />
     <state width="1341" height="219" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1602650083120" />
     <state width="1341" height="219" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1602648877592" />
-    <state width="1341" height="219" key="GridCell.Tab.0.left" timestamp="1602650083120">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left" timestamp="1602905266867">
+      <screen x="0" y="23" width="1152" height="650" />
     </state>
+    <state width="1110" height="213" key="GridCell.Tab.0.left/0.0.1152.720@0.0.1152.720" timestamp="1602723535209" />
+    <state width="1110" height="153" key="GridCell.Tab.0.left/0.23.1152.643@0.23.1152.643" timestamp="1602656348932" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left/0.23.1152.644@0.23.1152.644" timestamp="1602831022717" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left/0.23.1152.646@0.23.1152.646" timestamp="1602892825625" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left/0.23.1152.647@0.23.1152.647" timestamp="1602892157850" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left/0.23.1152.649@0.23.1152.649" timestamp="1602903398748" />
+    <state width="1095" height="213" key="GridCell.Tab.0.left/0.23.1152.650@0.23.1152.650" timestamp="1602905266867" />
     <state width="1341" height="219" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1602650083120" />
     <state width="1341" height="219" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1602648877591" />
-    <state width="1341" height="219" key="GridCell.Tab.0.right" timestamp="1602650083120">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right" timestamp="1602905266867">
+      <screen x="0" y="23" width="1152" height="650" />
     </state>
+    <state width="1110" height="213" key="GridCell.Tab.0.right/0.0.1152.720@0.0.1152.720" timestamp="1602723535211" />
+    <state width="1110" height="153" key="GridCell.Tab.0.right/0.23.1152.643@0.23.1152.643" timestamp="1602656348933" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right/0.23.1152.644@0.23.1152.644" timestamp="1602831022717" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right/0.23.1152.646@0.23.1152.646" timestamp="1602892825627" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right/0.23.1152.647@0.23.1152.647" timestamp="1602892157850" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right/0.23.1152.649@0.23.1152.649" timestamp="1602903398749" />
+    <state width="1095" height="213" key="GridCell.Tab.0.right/0.23.1152.650@0.23.1152.650" timestamp="1602905266867" />
     <state width="1341" height="219" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1602650083120" />
     <state width="1341" height="219" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1602648877592" />
     <state x="244" y="97" key="Maven.ArtifactSearchDialog" timestamp="1602563676519">
@@ -110,9 +238,10 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="362" y="197" width="689" height="472" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1602649499624" />
-    <state x="83" y="134" key="new project wizard" timestamp="1602558736215">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state x="66" y="23" key="new project wizard" timestamp="1602903828800">
+      <screen x="0" y="23" width="1152" height="649" />
     </state>
+    <state x="66" y="23" key="new project wizard/0.23.1152.649@0.23.1152.649" timestamp="1602903828800" />
     <state x="83" y="134" key="new project wizard/0.23.1440.836@0.23.1440.836" timestamp="1602558736215" />
   </component>
 </project>
